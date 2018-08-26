@@ -1,2 +1,2 @@
-# Solution-LeetCode
-My solution to LeetCode with Java.
+# Solution-OJ
+My solution for OJ with Java or C.
